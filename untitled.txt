@@ -1,4 +1,0 @@
-# Ignore specific CSV files
-office-dctm.csv
-office-l2.csv
-office-tfidf.csv
